@@ -1,1 +1,3 @@
-# blog.lxdlam.site-comment
+# blog.lxdlam.com-comment
+
+My Blog Comment Storage.
